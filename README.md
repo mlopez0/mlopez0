@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mlopez0
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning OpenCV C++
+- 🌱 I’m currently learning Machine Learning Stack: ``` Python: Numpy, pandas, scikit-learn ```
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me ''' DM me '''
+- 📫 How to reach me ``` marvinrenelopez@gmail.com ```
 
 <!---
 mlopez0/mlopez0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
